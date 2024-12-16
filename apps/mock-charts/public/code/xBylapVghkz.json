@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'HAHAHAH'\n    },\n    xAxis: {\n        data: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat','Sat']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[220, 182, 191, 234, 290, 330, 310,310]\n    }]\n};"}

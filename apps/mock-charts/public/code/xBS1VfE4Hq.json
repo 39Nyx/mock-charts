@@ -1,0 +1,1 @@
+{"code":"option = {\n    series: [{\n        type: 'map3D',\n        map: 'world'\n        \n    }]\n};"}

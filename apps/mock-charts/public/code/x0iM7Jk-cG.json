@@ -1,0 +1,1 @@
+{"code":"option = {\n    color: ['#0f0', '#edb120', '#f00'],\n    animation:false,\n    series: [\n        {\n            type: 'pie',\n            data: [2, 3, 4],\n            label: {\n                show: false,\n            },\n        },\n    ],\n};\n"}

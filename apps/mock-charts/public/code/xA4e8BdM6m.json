@@ -1,0 +1,1 @@
+{"code":"var option = {\n    series: [{\n        type: 'liquidFill',\n        data: [0.7],\n        label:{\n            normal:{\n                textStyle:{\n                    fontSize:10\n                }\n            }\n        },\n    }]\n};"}

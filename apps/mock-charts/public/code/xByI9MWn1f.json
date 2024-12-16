@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: '王者荣耀法师法力值'\n    },\n    xAxis: {\n        data: ['安琪拉', '貂蝉', '高渐离', '周瑜', '小乔', '妲己', '张良']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[220, 182, 191, 234, 290, 330, 310]\n    }]\n};"}

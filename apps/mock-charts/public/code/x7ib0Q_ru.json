@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'Awesome Chart'\n    },\n    xAxis: {\n        type: 'category',\n        data: ['数学','语文']\n    },\n    yAxis: {\n        \n    },\n    \n    \n    series: [\n    {\n        type: 'bar',\n        data: [30,40],\n        // barGap: '-100%'\n    }\n    ]\n};"}
