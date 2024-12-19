@@ -1,1 +1,0 @@
-{"code":"option = {\n    title: {\n        text: 'Awesome Chart'\n    },\n    xAxis: {\n        data: ['背景', 'SKU', 'Tue', '111', 'Thu', 'Fri', 'Sat']\n    },\n    yAxis: {},\n    series: [{\n        type: 'line',\n        data:[220, 182, 191, 234, 290, 330, 310]\n    }]\n};"}

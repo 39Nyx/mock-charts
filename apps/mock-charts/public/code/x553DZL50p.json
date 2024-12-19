@@ -1,1 +1,0 @@
-{"code":"option = {\r\n\txAxis: {},\r\n\tyAxis: {},\r\n\tseries: [{\r\n\t\tdata: [\r\n\t\t\t[10, 0],\r\n\t\t\t[50, 100],\r\n\t\t\t[50, 0],\r\n\t\t\t[10, 0],\r\n\r\n\t\t\t//分割两个图形\r\n\t\t\t[\"\", \"\"],\r\n\r\n\t\t\t[60, 50],\r\n\t\t\t[80, 20],\r\n\t\t\t[90, 20],\r\n\t\t\t[60, 50]\r\n\r\n\t\t],\r\n\t\ttype: 'line'\r\n\t}]\r\n};"}

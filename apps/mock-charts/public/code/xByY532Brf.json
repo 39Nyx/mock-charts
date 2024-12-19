@@ -1,1 +1,0 @@
-{"code":"// ECharts 水球图插件，需要额外插件脚本，参见上方“脚本”\n// 完整配置参数参见：https://github.com/ecomfe/echarts-liquidfill\n\noption = {\n    title:{\n        text:'水球图',\n        left:'center'\n    },\n    series: [{\n        type: 'liquidFill',\n        data: [0.8,0.7,0.6, 0.5, 0.4, 0.3],//水球内部水量\n        radius: '70%' // 水球大小\n    }]\n};\n"}

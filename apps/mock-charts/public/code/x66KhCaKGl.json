@@ -1,1 +1,0 @@
-{"code":"var uploadedDataURL = \"/asset/get/s/data-1548228575413-sDMw6YGjd.json\";\n\n\n\noption = {\n    title: {\n        text: '123'\n        \n    },\n    geo:{\n        map:'Tina'\n    }\n    \n};\n$.getJSON(uploadedDataURL,function(json){\n        echarts.registerMap('Tina',json);\n        myChart.setOption(Option)\n    })"}
