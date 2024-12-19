@@ -1,0 +1,1 @@
+{"code":"option = {\r\n    series: [{\r\n        type: 'map3D',\r\n        map: 'tianjin',\r\n        light: {\r\n    main: {\r\n        intensity: 1\r\n    },\r\n    ambient: {\r\n        intensity: 0\r\n    }\r\n}\r\n    }]\r\n};\r\n"}

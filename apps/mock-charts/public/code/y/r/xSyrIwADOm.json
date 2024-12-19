@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'My first Echart'\n    },\n    tooltip:{},\n    legend:{\n        data:['销量']\n    },\n    xAxis: {\n        data: ['羊毛', '鞋子', '围巾', '手机', '玉米', '豆腐', '衬衫']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[220, 182, 191, 234, 290, 330, 310]\n    }]\n};"}

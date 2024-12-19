@@ -1,0 +1,1 @@
+{"code":"var uploadedDataURL = \"/asset/get/s/data-1592323490338-uZNa8Om2p.json\";\n$.getJSON(uploadedDataURL, function (json) {\n    echarts.registerMap('ChinaFull', json);\n    \n    myChart.setOption({\n        series: [{\n            type: 'map',\n            map: 'ChinaFull',\n            roam: true\n        }] \n    });\n});"}

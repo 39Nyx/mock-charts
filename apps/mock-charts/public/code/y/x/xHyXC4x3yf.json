@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: '网友支持数'\n    },\n    xAxis: {\n        data: ['警察', '于欢', '于欢母亲', '法院', '死者']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[10, 110, 43, 10, 44]\n    }]\n};"}

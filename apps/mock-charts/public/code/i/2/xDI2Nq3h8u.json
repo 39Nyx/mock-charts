@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'Awesome Chart'\n    },\n    tooltip: {},\n    series: [{\n        type: 'map',\n        map: 'china',\n        data: [{\n                name: '新疆',\n                value: 23\n            },\n            {\n                name: '北京',\n                value: 1000,\n            }\n        ]\n    }]\n};"}

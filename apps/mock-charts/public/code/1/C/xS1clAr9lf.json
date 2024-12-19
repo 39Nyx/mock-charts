@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: '薛之谦人设'\n    },\n    xAxis: {\n        data: ['Sun', 'Mon', 'Tue', 'Sat']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[220, 182, 191,  310]\n    }]\n};"}

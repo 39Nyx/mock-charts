@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'echarts简单实例'\n    },\n    tooltip: {},\n    legend: { // 图案\n        data: ['销量']\n    },\n    xAxis: {\n        data: ['香蕉', '苹果', '梨子', '西瓜', '橙子']\n    },\n    yAxis: {},\n    series: [{ // 系列列表， 每个系列通过type来决定图表类型\n        name: '销量',\n        type: 'bar',\n        data: [5, 10, 30, 40, 20]\n    }]\n\n}"}

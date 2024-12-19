@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: '一周天气'\n    },\n    xAxis: {\n        data: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[20, 18, 19, 23, 29, 33, 31]\n    }]\n};"}

@@ -1,0 +1,1 @@
+{"code":"option = {\n    xAxis: {\n        type: 'category',\n        data: ['白羊', '金牛', '双子', '巨蟹', '狮子', '处女', '天枰', '天蝎', '射手', '摩羯','水瓶', '双鱼']\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        data: [361, 365, 370,337, 375, 373,495, 364,  349, 258, 350,408],\n        type: 'bar'\n    }]\n};\n"}

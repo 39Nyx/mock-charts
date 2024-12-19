@@ -1,0 +1,1 @@
+{"code":"option = { \r\n    series: [{\r\n        type: 'scatter',\r\n        coordinateSystem: 'bmap',\r\n        data: [{\r\n            name: 'aaa',\r\n            value: [121.15, 31.89, 100]\r\n        }]\r\n    }],\r\n    bmap: {\r\n       center: [104.114129, 37.550339]\r\n    }\r\n};"}

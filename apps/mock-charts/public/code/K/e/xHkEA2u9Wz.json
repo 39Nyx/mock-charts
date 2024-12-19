@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: '事件评论主体'\n    },\n    xAxis: {\n        data: ['程序员', '程序员妻子', '舅舅', '世纪佳缘', '警方']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[102, 192, 26, 37, 9]\n    }]\n};"}

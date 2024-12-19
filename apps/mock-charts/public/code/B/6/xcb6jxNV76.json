@@ -1,0 +1,1 @@
+{"code":"option = {\n    xAxis: {\n        type: 'category',\n        data: ['1980', '1985', '1990', '1995', '2000', '2005', '2010']\n    },\n    title: {\n        left: 'center',\n        text: '中国GDP变化图',\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        data: [4588, 9099, 18873, 61340, 100280, 187319, 413030],\n        type: 'line'\n    }]\n};\n"}

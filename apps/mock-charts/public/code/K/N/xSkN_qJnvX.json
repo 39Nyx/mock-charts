@@ -1,0 +1,1 @@
+{"code":"option = {\n    xAxis: {\n        type: 'category',\n        data: ['客户A', '客户B', '客户C', '客户D']\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        data: [120, 200, 150, 80],\n        type: 'bar'\n    }]\n};\n"}

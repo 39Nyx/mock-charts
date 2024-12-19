@@ -1,0 +1,1 @@
+{"code":"option = {\n  series: [\n    {\n      type: 'gauge',\n      axisLine: {\n        lineStyle: {\n          color: 'red'\n        }\n      },\n      data: [\n        {\n          value: 50,\n          name: 'SCORE'\n        }\n      ]\n    }\n  ]\n};"}

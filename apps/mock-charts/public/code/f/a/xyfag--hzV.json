@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'Awesome Chart'\n    },\n    xAxis: {\n        data: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']\n    },\n    color: [\"#CE864E\", \"#009ACD\"],\n    yAxis: {},\n    series: [{\n        type: 'line',\n        data: [100, 98, 88, 56, 73, 100, 142]\n    }]\n};"}

@@ -1,0 +1,1 @@
+{"code":"option = {\n    series: [{\n        type: 'line',\n        data: [1, 2, 1.2]\n    }],\n    xAxis: {},\n    yAxis: {\n        data: [1, 2, 3]\n    },\n    toolbox: {\n        show: true,\n        feature: {\n            saveAsImage: {\n                icon: 'path://M100,0 L41.22,180.90 L195.10,69.09 L4.89,69.09 L158.77,180.90 z'\n            }\n        }\n    }\n}"}

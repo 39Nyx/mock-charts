@@ -1,0 +1,1 @@
+{"code":"option = {\n    title: {\n        text: 'Awesome Chart'                                     //标题名字\n    },\n    xAxis: {\n        data: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'] //横坐标文字\n    },\n    yAxis: {},      //纵坐标，默认为数值\n    series: [{      //一系列数据\n        type: 'line',//折线图的意思\n        data: [220, 182, 191, 234, 290, 330, 310]\n    }]\n};\n"}
