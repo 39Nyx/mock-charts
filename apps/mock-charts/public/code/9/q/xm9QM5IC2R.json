@@ -1,1 +1,0 @@
-{"code":"option = {\n    graphic: {\n      type: 'text',\n      left: 'center',\n      top: 'middle',\n      z: 100,\n      style: {\n        fill: '#444',\n        text: '暂无数据',\n        fontSize: 26\n      }\n    }\n}"}

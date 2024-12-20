@@ -1,1 +1,0 @@
-{"code":"//   树图demo地址      https://echarts.baidu.com/examples/editor.html?c=tree-basic \n/*\n    请问树图的json数据中，value要求必须是number类型吗？字符串类型不可以吗？\n    我使用字符串，value就不显示，使用number才显示。\n    如何能使用字符串也显示value呢？\n    多谢！\n    QQ：1391715300\n    希望能和大家一起讨论进步，谢谢！   :) \n*/"}

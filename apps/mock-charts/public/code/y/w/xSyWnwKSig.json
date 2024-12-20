@@ -1,1 +1,0 @@
-{"code":"option = {\n    title: {\n        text: '上季度卡使用率'\n    },\n    xAxis: {\n        data: ['一月', '二月', '三月', '四月']\n    },\n    yAxis: {},\n    series: [{\n        type: 'line',\n        data: [2000, 5200, 3000, 7000]\n    }]\n};"}

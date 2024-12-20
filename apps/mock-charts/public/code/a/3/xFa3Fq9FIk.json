@@ -1,1 +1,0 @@
-{"code":"option = {\n    xAxis: {\n        type: 'category',\n        data: ['优化前', '代码懒注入']\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        data: [284, 152],\n        type: 'bar',\n        showBackground: true,\n        barWidth: 120,\n        backgroundStyle: {\n            color: 'rgba(180, 180, 180, 0.2)'\n        }\n    }]\n};"}

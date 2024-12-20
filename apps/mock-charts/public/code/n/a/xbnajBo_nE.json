@@ -1,1 +1,0 @@
-{"code":"option = {\n    title: {\n        text: '天气 风向 风速 海浪 预报',\n        subtext: '示例数据源于 www.seabreeze.com.au',\n        left: 'center'\n    },\n    tooltip: {\n        trigger: 'axis',\n    }\n}"}

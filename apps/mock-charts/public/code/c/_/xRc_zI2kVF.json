@@ -1,1 +1,0 @@
-{"code":"option = {\n    dataset: {\n        source: [\n            ['name', 'value'],\n            ['test1', 45],\n            ['test2', 21]\n        ]\n    },\n    xAxis: {\n        type: 'category'\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar'\n    }, ]\n};"}

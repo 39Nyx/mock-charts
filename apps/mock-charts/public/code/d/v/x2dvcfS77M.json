@@ -1,1 +1,0 @@
-{"code":"option = {\n    xAxis: {\n        type: 'category',\n        data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']\n    },\n    yAxis: {\n        type: 'log',\n        min:1,\n        logBase:3\n    },\n    series: [{\n        data: [2, 32, 91, 1134, 1290, 1330, 320],\n        type: 'line'\n    }]\n};\n "}

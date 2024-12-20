@@ -1,1 +1,0 @@
-{"code":"option = {\n      title: {\n        text: '2017届新生男女生人数）',\n      \n    },\n    xAxis: {\n        type: 'category',\n        data: ['女生', '男生']\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        data: [3324, 1081],\n        type: 'bar'\n    }]\n};\n"}

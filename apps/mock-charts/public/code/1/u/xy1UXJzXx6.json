@@ -1,1 +1,0 @@
-{"code":"var data = [\n    {value: 0},\n    {value: 0}\n];\n\noption = {\n    xAxis: {\n        type: 'category',\n        data: ['2020-08-10', '2020-08-11']\n    },\n    yAxis: {\n        type: 'value'\n    },\n    series: [{\n        name: 'scatter',\n        type: 'scatter',\n        coordinateSystem: 'cartesian2d',\n        xAxisIndex: 0,\n        data: data\n    }]\n};"}

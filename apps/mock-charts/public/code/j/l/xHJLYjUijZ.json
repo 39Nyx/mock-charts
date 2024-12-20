@@ -1,1 +1,0 @@
-{"code":"option = {\n    xAxis: {\n        data: ['A', 'B', 'C']\n    },\n    yAxis: {},\n    series: {\n        type: 'bar',\n        data: [1, 2, 4],\n        barWidth: 100,\n        barMaxWidth: 20, // 百分比或数值都有效\n    }\n}"}

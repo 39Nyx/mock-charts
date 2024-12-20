@@ -1,1 +1,0 @@
-{"code":"option = {\n    title: {\n        text: '雷狗的悲惨生活'\n    },\n    xAxis: {\n        data: ['xingqiba', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri']\n    },\n    yAxis: {},\n    series: [{\n        type: 'bar',\n        data:[100, 182, 191, 234, 290, 330]\n    }]\n};"}
